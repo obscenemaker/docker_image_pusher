@@ -1,1 +1,5 @@
 nginx
+mysql
+rabbitmq
+redis
+nacos/nacos-server
